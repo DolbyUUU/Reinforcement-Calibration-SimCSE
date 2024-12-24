@@ -37,6 +37,14 @@ For more details on SimCSE, visit the [SimCSE GitHub](https://github.com/princet
 
 The `wikisent2.txt` dataset used for training can be downloaded from [Wikipedia Sentences on Kaggle](https://www.kaggle.com/datasets/mikeortman/wikipedia-sentences).
 
+### Dependencies
+
+- `transformers==4.15.0`
+- `torch==1.9.0+cu111`
+- `tqdm==4.62.3`
+- `PyQt5==5.15.4`
+- `senteval==0.1.0`
+
 ## Disclaimer
 
 This project was developed as part of a group coursework assignment. Please use this project for reference or educational purposes only, and exercise caution if applying it to other use cases.
