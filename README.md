@@ -30,3 +30,7 @@ Semantic similarity is a core problem in **Natural Language Processing (NLP)**, 
 **SentEval** is a popular evaluation toolkit for sentence representations. It includes 17 downstream tasks, including **STS12-16**, **STS-B**, and **SICK-R**, which measure sentence relatedness using cosine similarity and Pearson correlation. Learn more at [SentEval GitHub](https://github.com/facebookresearch/SentEval).
 
 For more details on SimCSE, visit the [SimCSE GitHub](https://github.com/princeton-nlp/SimCSE).
+
+## Disclaimer
+
+This project was developed as part of a group coursework assignment. Please use this project for reference or educational purposes only, and exercise caution if applying it to other use cases.
